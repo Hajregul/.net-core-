@@ -1,0 +1,8 @@
+C:\Users\Acer-i7\source\repos\IB150232\IB150232_Model\bin\Debug\netstandard2.0\IB150232_Model.deps.json
+C:\Users\Acer-i7\source\repos\IB150232\IB150232_Model\bin\Debug\netstandard2.0\IB150232_Model.dll
+C:\Users\Acer-i7\source\repos\IB150232\IB150232_Model\bin\Debug\netstandard2.0\IB150232_Model.pdb
+C:\Users\Acer-i7\source\repos\IB150232\IB150232_Model\obj\Debug\netstandard2.0\IB150232_Model.csproj.CoreCompileInputs.cache
+C:\Users\Acer-i7\source\repos\IB150232\IB150232_Model\obj\Debug\netstandard2.0\IB150232_Model.AssemblyInfoInputs.cache
+C:\Users\Acer-i7\source\repos\IB150232\IB150232_Model\obj\Debug\netstandard2.0\IB150232_Model.AssemblyInfo.cs
+C:\Users\Acer-i7\source\repos\IB150232\IB150232_Model\obj\Debug\netstandard2.0\IB150232_Model.dll
+C:\Users\Acer-i7\source\repos\IB150232\IB150232_Model\obj\Debug\netstandard2.0\IB150232_Model.pdb

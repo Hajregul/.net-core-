@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "cBTVHzKnK5md5uQ7y8Paj5Vpaqn1yAl14WMI+na99jNT6kXkpx4aomGyaAmJhjksOi74DSl/ohntDhqW16dv8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer-i7\\source\\repos\\IB150232\\IB150232\\IB150232\\IB150232.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer-i7\\.nuget\\packages\\flurl\\2.8.1\\flurl.2.8.1.nupkg.sha512",
+    "C:\\Users\\Acer-i7\\.nuget\\packages\\flurl.http\\2.4.1\\flurl.http.2.4.1.nupkg.sha512",
+    "C:\\Users\\Acer-i7\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Acer-i7\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Acer-i7\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Acer-i7\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\Acer-i7\\.nuget\\packages\\system.text.encoding.codepages\\4.4.0\\system.text.encoding.codepages.4.4.0.nupkg.sha512",
+    "C:\\Users\\Acer-i7\\.nuget\\packages\\xamarin.forms\\3.4.0.1008975\\xamarin.forms.3.4.0.1008975.nupkg.sha512"
+  ],
+  "logs": []
+}
